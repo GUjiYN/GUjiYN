@@ -1,11 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+***
+## 关于我
+你好，我是nana，一名大学生，对前端开发比较感兴趣，前端掌握的技术栈有`HTML`,`CSS`,`JS`,`VUE`,一般用VUE框架编写前端代码，目前准备学习后端的一些知识：`java`,`javaweb`.
 
-**GUjiYN/GUjiYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 我是一名大学生 ...
-- 🌱 目前正在学习java ...
+- 🔭 我是一名大学生.
+- 🌱 目前正在学习java.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***
+## 联系方式
+- 🐧QQ：2946459904
+- ✉️邮箱：2946459904@qq.com
+
