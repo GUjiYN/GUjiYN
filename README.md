@@ -13,7 +13,16 @@
 - 💻 专注前端技术开发，正在向全栈迈进
 - 📈 日均Coding时长：2小时+
 
-<img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
+
+
+
+<div>
+    <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
+    <img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
+</div>
+
+
+
 
 ## 🛠️ 技术图谱
 <div>
