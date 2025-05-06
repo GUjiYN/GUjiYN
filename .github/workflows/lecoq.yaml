@@ -1,7 +1,7 @@
 name: 生成 GITHUB PROFILE 图片
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: '0 0 * * *'
     
