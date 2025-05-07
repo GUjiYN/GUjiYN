@@ -17,6 +17,7 @@
 
 
 <div>
+    <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
     <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
     <img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
 </div>
