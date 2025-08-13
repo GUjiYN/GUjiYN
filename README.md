@@ -44,7 +44,7 @@ Nailing strategies in management games (there’s something satisfying about bui
 </div>
 
 <div align="center">
-[![GUjiYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUjiYN)](https://github.com/GUjiYN)
+![GUjiYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUjiYN)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
