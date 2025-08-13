@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=嗨👋我是GUjiYN&fontSize=50&animation=fadeIn)
 
 </div>
@@ -31,7 +31,7 @@ Nailing strategies in management games (there’s something satisfying about bui
 <div>
     <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
     <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
-   
+
 </div>
 
 
@@ -44,6 +44,7 @@ Nailing strategies in management games (there’s something satisfying about bui
 </div>
 
 <div align="center">
+[![GUjiYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUjiYN)](https://github.com/GUjiYN)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
