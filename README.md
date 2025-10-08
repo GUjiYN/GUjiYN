@@ -9,16 +9,7 @@
 </div>
 
 ## 🎓About me
-👋 Hey, I'm GUjiYN!
-A senior undergraduate student deeply passionate about front-end development and the sweet spot where code meets creativity.<br>
-- 💻 My Tech World<br>
-Front-end development is my expertise: I’m proficient in HTML5/CSS3, JavaScript (ES6+), and frameworks like React/Vue, with a knack for building responsive, interactive web experiences.
-I also have a foundational grasp of back-end technologies (e.g., java, basic databases), which helps me think holistically about projects.<br>
-- 🎧 When I’m Not Coding<br>
-Outside of tech, you’ll find me:<br>
-Lost in music (it’s my go-to for focus and relaxation)<br>
-Binging a good drama (nothing beats a compelling story)<br>
-Nailing strategies in management games (there’s something satisfying about building and optimizing worlds!)<br>
+👋 Hey, I'm GUjiYN! A senior undergraduate student deeply passionate about front-end development and the sweet spot where code meets creativity. Front-end development is my expertise: I'm proficient in HTML5/CSS3, JavaScript (ES6+), and frameworks like React/Vue, with a knack for building responsive, interactive web experiences. I also have a foundational grasp of back-end technologies (e.g., java, basic databases), which helps me think holistically about projects.
 
 - 🤝 Let’s Connect<br>
 🐧 QQ: 2946459904<br>
