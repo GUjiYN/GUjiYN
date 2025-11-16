@@ -40,8 +40,6 @@
 </div>
 
 <div align="center">
-<img src="https://api.githubtrends.io/user/svg/GUjiYN/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="height: 200px">
-    <img src="https://github-readme-stats.vercel.app/api?username=GUjiYN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
