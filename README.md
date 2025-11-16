@@ -28,10 +28,10 @@
 
 
 
-## 🛠️ 技术图谱
+## 🛠️ Technology stack
 <div>
-    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,c,cpp,md,spring,vite,vue,react,tailwind,npm,mysql,jquery&perline=12">
-    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,vscode,postman,obsidian,github,gitlab,git,windows,linux,ubuntukali&perline=12">
+    <img width="400" height="125" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,c,cpp,md,spring,vite,vue,react,tailwind,npm,mysql,jquery&perline=12">
+    <img width="400" height="125" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,vscode,postman,obsidian,github,gitlab,git,windows,linux,ubuntukali&perline=12">
 </div>
 
 <div align="center">
