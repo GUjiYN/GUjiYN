@@ -39,8 +39,13 @@ Nailing strategies in management games (there’s something satisfying about bui
 
 ## 🛠️ 技术图谱
 <div>
-    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,c,cpp,md,spring,vite,vue,react,tailwind,maven,npm,mysql,jquery&perline=12">
-    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,obsidian,github,gitlab,git,windows,linux,ubuntukali&perline=12">
+    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,c,cpp,md,spring,vite,vue,react,tailwind,npm,mysql,jquery&perline=12">
+    <img height="125" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,vscode,postman,obsidian,github,gitlab,git,windows,linux,ubuntukali&perline=12">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUjiYN&layout=compact&hide=php,javascript,css" style="height: 180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=GUjiYN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 180px">
 </div>
 
 <div align="center">
